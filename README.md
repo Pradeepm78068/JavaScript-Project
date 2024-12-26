@@ -1,0 +1,1 @@
+This is a basic javascript project that ask five question's related to java script at the end it will give the number of correct answers you scored out of 5 you restart it again to takle the same questons again.
